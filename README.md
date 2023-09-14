@@ -4,19 +4,19 @@ I wholeheartedly endorse this data-driven initiative. Tackling customer churn th
 
 <hr>
 
-![My Image](assets/img4.png)
+![My Image](files/img6.png)
 
 <hr>
 
-![My Image](assets/img4.png)
+![My Image](files/img8.png)
 
 <hr>
 
-![My Image](assets/img4.png)
+![My Image](files/img9.png)
 
 <hr>
 
-![My Image](assets/img4.png)
+![My Image](files/img7.png)
 
 <hr>
 
